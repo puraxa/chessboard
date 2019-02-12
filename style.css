@@ -13,12 +13,6 @@ div {
     line-height: 50px;
     font-size: 25px;
 }
-.no-border-bottom {
-    border-bottom: none;
-}
-.no-border-right {
-    border-right: none;
-}
 .left-border {
     border-left: solid;
 }
@@ -32,4 +26,7 @@ div {
     background-color: black;
     color: white;
     border-color: black;
+}
+.border-none {
+    border: none;
 }
