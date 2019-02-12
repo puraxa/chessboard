@@ -1,0 +1,44 @@
+body {
+    width: 480px;
+    margin: 0 auto;
+}
+.main {
+    border: solid;
+    border-bottom: none;
+    border-right: none;
+    height: 50px;
+}
+.nesto {
+    float: left;
+    border-right: solid;
+    height: 100%;
+    width: 50px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    font-size: 25px;
+}
+.border-bottom {
+    border-bottom: solid;
+}
+.black {
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+.white {
+    background-color: white;
+    color: black;
+}
+.float-right {
+    float: right;
+}
+.clear {
+    clear: both;
+}
+.no-border-bottom {
+    border-bottom: none;
+}
+.no-border-left {
+    border-left: none;
+}
