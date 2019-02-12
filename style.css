@@ -18,6 +18,7 @@ div {
     width: 460px;
     height: 450px;
     background-color: #3F3D3A;
+    border-radius: 15px;
 }
 .white {
     background-color: #E9D8B6;
