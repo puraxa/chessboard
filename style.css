@@ -4,8 +4,6 @@ body {
 }
 div {
     float: left;
-    border-right: solid;
-    border-bottom: solid;
     height: 50px;
     width: 50px;
     text-align: center;
@@ -13,20 +11,17 @@ div {
     line-height: 50px;
     font-size: 25px;
 }
-.left-border {
-    border-left: solid;
-}
-.margin-left {
-    margin-left: 3px;
-}
-.border-top {
-    border-top: solid;
-}
 .black {
-    background-color: black;
-    color: white;
-    border-color: black;
+    background-color: #A88867;
 }
-.border-none {
-    border: none;
+.wrapper {
+    width: 460px;
+    height: 450px;
+    background-color: #3F3D3A;
+}
+.white {
+    background-color: #E9D8B6;
+}
+.margin-top {
+    margin-top: 5px;
 }
